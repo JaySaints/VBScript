@@ -5,7 +5,7 @@ Dim objFSO, objFile
 Dim strDirectory, strFileName
 
 ' Path of directory
-strDirectory = "C:\Users\jshark\Documents\Dev\WinCommands\TestFilder"
+strDirectory = "C:\Users\..."
 
 ' Name new file
 strFileName = "\system_informations.txt"
